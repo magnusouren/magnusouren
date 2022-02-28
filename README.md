@@ -1,8 +1,10 @@
 <div align='center'>
 
-### Hi there 👋
+## Magnus T. Ouren
 
-![Magnus's github stats](https://github-readme-stats.vercel.app/api?username=magnusouren)
+![Magnus's github stats](https://github-readme-stats.vercel.app/api?username=magnusouren&theme=github_dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magnusouren&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <!--
