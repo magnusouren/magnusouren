@@ -1,8 +1,10 @@
 <div align='center'>
 
-## Magnus T. Ouren
+## ⚡ Magnus T. Ouren ⚡
 
 </div>
+
+<div align='right'>
 
 ![Magnus's github stats](https://github-readme-stats.vercel.app/api?username=magnusouren&theme=github_dark)
 
@@ -14,6 +16,7 @@
     <!--END_SECTION:activity-->
 </detalis>
 
+</div>
 <!--
 **magnusouren/magnusouren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
