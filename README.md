@@ -4,7 +4,7 @@
 
 </div>
 
-<div align='right'>
+<div>
 
 ![Magnus's github stats](https://github-readme-stats.vercel.app/api?username=magnusouren&theme=github_dark)
 
