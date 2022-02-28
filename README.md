@@ -1,6 +1,6 @@
 <div align='center'>
 ### Hi there 👋
-[Magnus's github stats](https://github-readme-stats.vercel.app/api?username=magnusouren)
+![Magnus's github stats](https://github-readme-stats.vercel.app/api?username=magnusouren)
 </div>
 
 <!--
