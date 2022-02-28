@@ -7,9 +7,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magnusouren&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
-
   <summary>Recent GitHub Activity</summary>
-  
+    <!--START_SECTION:activity-->
+    <!--END_SECTION:activity-->
 </detalis>
 </div>
 <!--
