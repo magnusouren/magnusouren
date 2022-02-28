@@ -2,6 +2,8 @@
 
 ## Magnus T. Ouren
 
+</div>
+
 ![Magnus's github stats](https://github-readme-stats.vercel.app/api?username=magnusouren&theme=github_dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magnusouren&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -11,7 +13,7 @@
     <!--START_SECTION:activity-->
     <!--END_SECTION:activity-->
 </detalis>
-</div>
+
 <!--
 **magnusouren/magnusouren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
