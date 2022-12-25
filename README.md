@@ -4,7 +4,7 @@
 
 2nd year at informatics at NTNU
 
-[Homepage](https://magnus.ouren.no)
+[Homepage](https://www.magnus.ouren.no)
 
 [LinkedIn](https://www.linkedin.com/in/magnus-tomter-ouren-44a80321b/)
 
