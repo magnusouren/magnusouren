@@ -4,6 +4,8 @@
 
 2nd year at informatics at NTNU
 
+[Homepage](https://magnus.ouren.no)
+
 [LinkedIn](https://www.linkedin.com/in/magnus-tomter-ouren-44a80321b/)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magnusouren&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
