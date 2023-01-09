@@ -1,6 +1,6 @@
 <div align='center'>
 
-## ⚡ Magnus T. Ouren ⚡
+## ⚡ Magnus Tomter Ouren ⚡
 
 2nd year at informatics at NTNU
 
