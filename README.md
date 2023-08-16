@@ -2,7 +2,7 @@
 
 ## ⚡ Magnus Tomter Ouren ⚡
 
-2nd year at informatics at NTNU
+3rd year at B.Sc. - informatics at NTNU
 
 [Homepage](https://www.magnus.ouren.no)
 
