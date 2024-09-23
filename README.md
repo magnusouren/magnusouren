@@ -2,7 +2,7 @@
 
 ## ⚡ Magnus Tomter Ouren ⚡
 
-Last year on my B.Sc. - informatics at NTNU
+Master of Science - informatics at NTNU
 
 [Homepage](https://www.magnus.ouren.no)
 
