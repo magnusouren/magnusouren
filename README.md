@@ -2,8 +2,6 @@
 
 ## ⚡ Magnus Tomter Ouren ⚡
 
-Master of Science - informatics at NTNU
-
 [Homepage](https://www.magnus.ouren.no)
 
 [LinkedIn](https://www.linkedin.com/in/magnus-tomter-ouren-44a80321b/)
